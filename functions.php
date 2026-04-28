@@ -1,5 +1,5 @@
 <?php
-// test deploy 2
+// test deploy 22
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
